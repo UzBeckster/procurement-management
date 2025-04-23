@@ -21,7 +21,7 @@ These ensure deployment, development, and promotion of the platform.
 
 ￿ Team Roles
 
-| Role | Name | Responsibility|
+| Role                  | Name           | Responsibility                      |
 |-----------------------|----------------|------------------------------------|
 
 | Procurement Officer   | Dr. Akilan S.  | Oversees the procurement cycle
