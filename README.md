@@ -21,20 +21,16 @@ These ensure deployment, development, and promotion of the platform.
 
 ￿ Team Roles
 
-| Role                  | Name           | Responsibility                      |
+| Role                  | Name           | Responsibility                     |
 |-----------------------|----------------|------------------------------------|
-
-| Procurement Officer   | Dr. Akilan S.  | Oversees the procurement cycle
-|
+| Procurement Officer   | Dr. Akilan S.  | Oversees the procurement cycle     |
 | Technical Evaluator   | Mr. Rahman     | Reviews vendor technical proposals |
 | Finance Approver      | Ms. Gayathri D.| Budget approval & payments         |
 
 ￿ Timeline
 
 | Activity                    | Start Date  | End Date    |
-
 |-----------------------------|-------------|-------------|
-
 | Tender Posting              | 01-May-2025 | 03-May-2025 |
 | Vendor Quotations Receiving | 03-May-2025 | 07-May-2025 |
 | Evaluation & Selection      | 08-May-2025 | 10-May-2025 |
